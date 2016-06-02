@@ -9,6 +9,9 @@
 .classpath
 .settings
 
+# JavaFX
+.fxbuild
+
 # Idea
 .idea
 *.iml
