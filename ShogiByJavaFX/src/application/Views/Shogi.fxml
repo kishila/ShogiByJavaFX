@@ -61,7 +61,7 @@
                         <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
                      </BorderPane.margin>
                      <children>
-                        <ImageView id="cell_00" fx:id="cell_00" fitHeight="60.0" fitWidth="60.0" onMouseClicked="#clickCell_00" pickOnBounds="true" preserveRatio="true" />
+                        <ImageView id="cell_00" fx:id="cell_00" fitHeight="60.0" fitWidth="60.0" onMouseClicked="#onClickCell" pickOnBounds="true" preserveRatio="true" />
                         <ImageView id="cell_10" fx:id="cell_10" fitHeight="60.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" />
                         <ImageView id="cell_20" fx:id="cell_20" fitHeight="60.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" />
                         <ImageView id="cell_30" fx:id="cell_30" fitHeight="60.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" />
