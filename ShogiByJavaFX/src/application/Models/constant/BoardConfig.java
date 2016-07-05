@@ -1,4 +1,4 @@
-package application.Models.constants;
+package application.Models.constant;
 
 public class BoardConfig {
 	private BoardConfig(){}
